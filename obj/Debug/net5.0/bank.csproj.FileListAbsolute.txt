@@ -1,0 +1,16 @@
+/home/nicole/Documentos/DIO/Projetos/bank/bin/Debug/net5.0/bank
+/home/nicole/Documentos/DIO/Projetos/bank/bin/Debug/net5.0/bank.deps.json
+/home/nicole/Documentos/DIO/Projetos/bank/bin/Debug/net5.0/bank.runtimeconfig.json
+/home/nicole/Documentos/DIO/Projetos/bank/bin/Debug/net5.0/bank.runtimeconfig.dev.json
+/home/nicole/Documentos/DIO/Projetos/bank/bin/Debug/net5.0/bank.dll
+/home/nicole/Documentos/DIO/Projetos/bank/bin/Debug/net5.0/ref/bank.dll
+/home/nicole/Documentos/DIO/Projetos/bank/bin/Debug/net5.0/bank.pdb
+/home/nicole/Documentos/DIO/Projetos/bank/obj/Debug/net5.0/bank.csproj.AssemblyReference.cache
+/home/nicole/Documentos/DIO/Projetos/bank/obj/Debug/net5.0/bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicole/Documentos/DIO/Projetos/bank/obj/Debug/net5.0/bank.AssemblyInfoInputs.cache
+/home/nicole/Documentos/DIO/Projetos/bank/obj/Debug/net5.0/bank.AssemblyInfo.cs
+/home/nicole/Documentos/DIO/Projetos/bank/obj/Debug/net5.0/bank.csproj.CoreCompileInputs.cache
+/home/nicole/Documentos/DIO/Projetos/bank/obj/Debug/net5.0/bank.dll
+/home/nicole/Documentos/DIO/Projetos/bank/obj/Debug/net5.0/ref/bank.dll
+/home/nicole/Documentos/DIO/Projetos/bank/obj/Debug/net5.0/bank.pdb
+/home/nicole/Documentos/DIO/Projetos/bank/obj/Debug/net5.0/bank.genruntimeconfig.cache
